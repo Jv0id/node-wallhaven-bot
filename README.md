@@ -43,6 +43,6 @@ Fill up all the fields. Meaning of each fields are discussed below:
 # Deploying
 * Start the bot by using this command :
 `npm start`
-or
+
 * start daemon
 `pm2 start npm -- start`
